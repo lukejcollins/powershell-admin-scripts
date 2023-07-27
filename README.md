@@ -1,3 +1,6 @@
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripts-blue?style=flat&logo=Powershell&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active-Directory-gold?style=flat&logo=Windows%2095&logoColor=white)
+
+
 # PowerShell Admin Scripts
 
 Welcome to PowerShell Admin Scripts repo! This repository contains a collection of administrative scripts written in PowerShell for managing and maintaining your systems. The scripts in this repository are designed to make administrative tasks easier and more efficient. 
