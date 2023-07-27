@@ -27,7 +27,7 @@ This script imports the AD module, gets a list of groups that matches a provided
 
 1. Clone this repo.
 2. Navigate to the script's directory via PowerShell.
-3. Run the script using the command: `.\script_name.ps1`
+3. Run the script using the command: `.\export_users_from_group.ps1`
 4. When prompted, enter part of the group name you wish to export users from.
 5. The script will process the groups and users, then export the data to a CSV file in the same directory as the script. It will display the path to the CSV file once it's done.
 
